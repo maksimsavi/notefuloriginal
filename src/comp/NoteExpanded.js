@@ -4,7 +4,7 @@ import "./Main.css"
 class NoteExpanded extends React.Component {
     
     componentDidMount(){
-
+        
     }
     getNotes(){
         const currentNoteId = this.props.match.params.id;
